@@ -1,0 +1,6 @@
+{
+  "name": "Cờ Ca Rô - Chơi Với Máy",
+  "description": "Trò chơi Cờ Ca Rô (Gomoku) 15x15 đấu với Máy hoặc 2 người chơi với nhiều cấp độ khó, gợi ý nước đi và bảng thành tích.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
